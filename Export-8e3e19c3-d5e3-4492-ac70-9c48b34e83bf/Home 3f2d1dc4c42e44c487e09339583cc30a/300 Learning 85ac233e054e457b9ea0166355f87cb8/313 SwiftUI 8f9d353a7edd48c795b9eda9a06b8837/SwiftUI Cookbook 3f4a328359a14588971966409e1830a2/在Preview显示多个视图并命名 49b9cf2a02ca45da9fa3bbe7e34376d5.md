@@ -1,0 +1,5 @@
+# 在Preview显示多个视图并命名
+
+这里，我们使用 `Group` 来将多个组件的预览进行分组。不指定任何的预览选项（如ContentView），Xcode 会在目前模拟器上显示预览。对于 `TopBarMenu` 与 `BottomBarMenu`， 我们告诉 Xcode 在容器视图中预览布局，图19.5 可让你更加了解预览是什么样。
+
+![../../../020%20Finished%205d5dcd977fad4e1a88671c30acab9455/%E7%B2%BE%E9%80%9A%20SwiftUI%20-%20iOS%2016%20%E7%89%88%20ac39e1de7e2d4c85b892b0d9cd92b968/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%8A%BF%E4%B8%8E%E5%8A%A8%E7%94%BB%E5%BB%BA%E7%AB%8B%20Tinder%20%E9%A3%8E%E6%A0%BC%E7%9A%84%20UI%20%E7%B2%BE%E9%80%9A%20SwiftUI%20-%20iOS%2016%20%E7%89%88%2046de586b7a6d4155a5b3df261b77d348/swiftui-trip-tinder-5.png](../../../020%20Finished%205d5dcd977fad4e1a88671c30acab9455/%E7%B2%BE%E9%80%9A%20SwiftUI%20-%20iOS%2016%20%E7%89%88%20ac39e1de7e2d4c85b892b0d9cd92b968/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%8A%BF%E4%B8%8E%E5%8A%A8%E7%94%BB%E5%BB%BA%E7%AB%8B%20Tinder%20%E9%A3%8E%E6%A0%BC%E7%9A%84%20UI%20%E7%B2%BE%E9%80%9A%20SwiftUI%20-%20iOS%2016%20%E7%89%88%2046de586b7a6d4155a5b3df261b77d348/swiftui-trip-tinder-5.png)

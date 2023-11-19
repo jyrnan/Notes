@@ -1,0 +1,3 @@
+# About these notes | Evergreen notes | Evergreen notes should be atomic | Evergreen note titles are like APIs
+
+[https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k)

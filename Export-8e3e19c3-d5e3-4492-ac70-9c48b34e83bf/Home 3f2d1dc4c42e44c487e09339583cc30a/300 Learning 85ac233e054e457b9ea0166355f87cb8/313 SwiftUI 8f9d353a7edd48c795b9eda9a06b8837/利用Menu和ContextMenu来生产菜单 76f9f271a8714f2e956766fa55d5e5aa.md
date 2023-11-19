@@ -1,0 +1,4 @@
+# 利用Menu和ContextMenu来生产菜单
+
+- SwiftUI gives us the **ContextMenu** modifier for creating popup menus in our apps. In iOS this is usually triggered using 3D Touch, but it works just the same as a right-click on macOS – it’s a flexible API.弹出式菜单,和下面的区别是这个需要重按？
+- SwiftUI gives us a dedicated view for showing popup menus from buttons, helpfully called **Menu**. This can be created from a simple string or using a custom view, but either way you get to send in a variety of buttons to control what you want to appear in the menu.直接点击弹出菜单。需要注意的是菜单的内容都是由Button组成。如果需要不同内容的菜单，可以利用Button的Label属性来添加不同的view，例如Text和Image

@@ -1,0 +1,4 @@
+# Vacation
+
+Date: August 13, 2021 12:00 AM (EDT) → August 18, 2021 4:00 PM (EDT)
+Tags: Personal (../%5BEx%5D%20TAGS%20DATABASE%2054fc518590e044f1bdaf8f5c40696f5a/Personal%203c628baaef264fe39a3334b342ba3669.md), Relationship (../%5BEx%5D%20TAGS%20DATABASE%2054fc518590e044f1bdaf8f5c40696f5a/Relationship%2050c049532e3c4605819aa48c42cef4bc.md), Fun (../%5BEx%5D%20TAGS%20DATABASE%2054fc518590e044f1bdaf8f5c40696f5a/Fun%20facc3b8725ae4eb391313e8e05d9a9b6.md)
